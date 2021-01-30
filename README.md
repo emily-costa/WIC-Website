@@ -2,7 +2,7 @@
 ### Emily Costa (eac33)
 #### Live vesion: <put link here>
 
-This is the most updated version of WIC's website by Emily Costa. This web applicaiton was developed using Angular's framework.
+This is the most updated version of WIC's website by Emily Costa. This project was generated with Angular CLI.
 
 The first version of WIC's website was made by Emily Costa, Sinai Park (sp46), and Sebene Yi (ssy3). [Project Repo](https://github.com/cs336-wic/web-app).
 
